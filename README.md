@@ -5,7 +5,7 @@ Projeto de um gerador de senha para web onde o usuário determina a quantidade d
 ## Demonstração
 
 ![Index](./assets/foto.png)
-![Senha gerada](.assets/foto1.png)
+![Senha gerada](./assets/foto1.png)
 
 ## Funcionalidades
 
