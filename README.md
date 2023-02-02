@@ -4,7 +4,7 @@
 Projeto de um gerador de senha para web onde o usuário determina a quantidade de caracteres da sua senha e o software gera uma senha aleatória.
 ## Demonstração
 
-![Index](.assets/foto.png)
+![Index](./assets/foto.png)
 ![Senha gerada](.assets/foto1.png)
 
 ## Funcionalidades
